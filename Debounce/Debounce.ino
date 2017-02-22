@@ -26,10 +26,10 @@
 
  http://www.arduino.cc/en/Tutorial/Debounce
  */
-
+//changes by me
 // constants won't change. They're used here to
 // set pin numbers:
-const int buttonPin = 5;    // the number of the pushbutton pin
+const int buttonPin = 8;    // the number of the pushbutton pin
 const int ledPin = 6;      // the number of the LED pin
 
 // Variables will change:
